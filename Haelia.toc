@@ -1,0 +1,20 @@
+## Interface: 110100
+## Author: Haelia
+## Version: 1.0
+## Title: |cffea00ffHaelia|r
+## SavedVariable: HaeliaDB
+## IconTexture: Interface\AddOns\Haelia\Media\Icons\Haelia
+## AddonCompartmentFunc: Haelia_Options
+
+## LIBS
+Libs\Load.xml
+## MEDIA 
+Media\Load.xml 
+## CORE 
+Core\Load.xml
+## DATA
+Data\Load.xml
+## MODULES
+Modules\Load.xml
+## CONFIG
+Config\Load.xml
